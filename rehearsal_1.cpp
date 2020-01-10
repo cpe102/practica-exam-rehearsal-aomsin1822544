@@ -15,7 +15,7 @@ double a;
 } else{
       cout  << "Try harder," << x << "!!!";
 }
-}
+}  
 return 0;
  
  
