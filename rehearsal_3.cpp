@@ -1,6 +1,16 @@
 #include <iostream>
+using namespace std;
+#include <cmat>;
 
-//Write sumSqrt() here.
+
+double sumSqrt(double n){
+   double n = 1+1/sqrt(n)+1/sqrt(n+1)+ 1/sqrt(n);
+   retrun 0;
+
+
+}
+
+
 
 
 int main()
