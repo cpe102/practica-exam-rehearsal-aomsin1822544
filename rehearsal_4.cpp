@@ -1,6 +1,7 @@
 #include <iostream>
 
 //Write compress() here.
+double comgress()
 
 int main()
 {
@@ -15,5 +16,5 @@ int main()
     string i = conpress("ABCD");
     
     cout << a << "\n" << b << "\n" << c << "\n" << d << "\n" << e << "\n" << f << "\n" << g << "\n" << h << "\n" << i << "\n";
-
+  
 }
